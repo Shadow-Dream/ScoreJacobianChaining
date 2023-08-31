@@ -16,9 +16,9 @@ The detailed conda environment is in the environment.yml file, and for reference
 4. 数据集可自行设计（请修改Dataset类中的加载脚本），也可以下载简单训练数据<br>
 Simple training data can be downloaded in the Netdisk <br>
 datasets文件夹放在本目录下即可 <br>
-Place the datasets folder in this directory
+Place the datasets folder in this directory <br>
 链接(Link)：https://pan.baidu.com/s/1MjsTYkg5p2sQ1fepaBUfNQ <br>
-提取码(Password)：b7p1 <br>
+提取码(Password)：b7p1
 
 5. 运行脚本前请在本目录下新建weights文件夹用以存放网络权重<br>
 Before Running the scripts, please create a "weights" folder in this directory
